@@ -1,7 +1,7 @@
 import { User, Message } from "./types";
-import profilePic1 from "./assets/profile_pic_1.png";
-import profilePic2 from "./assets/profile_pic_2.png";
-import profilePic3 from "./assets/profile_pic_3.png";
+import profilePic1 from "./assets/profile_pics/profile_pic_1.png";
+import profilePic2 from "./assets/profile_pics/profile_pic_2.png";
+import profilePic3 from "./assets/profile_pics/profile_pic_3.png";
 
 export const users: User[] = [
   { username: "Barry Bar", userHandle: "@barbar", userImage: profilePic1 },
